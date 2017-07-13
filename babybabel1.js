@@ -1,3 +1,5 @@
+// first babel
+
 let shoppingCart = [
 {id: 0, product: "DVD", price: 21.99},
 {id: 1, product: "CD", price: 11.99}
