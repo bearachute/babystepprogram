@@ -11,3 +11,5 @@ function tokenize(TOKEN_REGEX, str) {
 
 let result = tokenize(TOKEN, '3 + 4');
 console.log(JSON.stringify(result));
+
+// second step into baby babel
