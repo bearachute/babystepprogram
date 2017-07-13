@@ -13,3 +13,4 @@ let result = tokenize(TOKEN, '3 + 4');
 console.log(JSON.stringify(result));
 
 // second step into baby babel
+// learn more javascript for real
